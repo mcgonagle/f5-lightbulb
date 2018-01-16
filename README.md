@@ -1,6 +1,6 @@
-# Ansible Lightbulb
+# Ansible F5 Lightbulb
 
-The Ansible Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Ansible topics.
+The Ansible F5 Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching F5 with Ansible.
 
 Lightbulb began life as the content that supported Ansible's training program before it joined the Red Hat family focused solely on Linux server automation.
 
